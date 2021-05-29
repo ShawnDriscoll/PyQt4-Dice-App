@@ -118,25 +118,3 @@ if __name__ == '__main__':
     MainApp = DiceWindow()
     MainApp.show()
     sys.exit(app.exec_())
-    
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-            
-            
-            
-            
-            
-                    
-        
-        
