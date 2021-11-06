@@ -48,4 +48,11 @@ develop-eggs/
 ############
 ## Jython
 ############
-*.class
+*$py.class
+
+
+##############
+## Qt Designer
+##############
+#*.ui
+#*.qrc
